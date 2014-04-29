@@ -17,7 +17,7 @@ using System.Windows.Shapes;
 namespace ModernUIApp1
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml this is a test 1
     /// </summary>
     public partial class MainWindow : ModernWindow
     {
